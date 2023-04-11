@@ -1,0 +1,6 @@
+2709778296#3087#Chedar cheese#Dairy Products#LB1#$7.89#Smoked 18 months aged#2#15.78
+2709778296#3008#Skim Milk#Dairy Products#GAL1#$4.99#1% skim milk antibiotic free#2#9.98
+2709778296#2019#Chicken Fingers#Meat#LB1#$4.99#cage free#2#9.98
+2709778296#2005#Pork Ribs#Meat#LB1#$6.99#Barbecue pork ribs#3#20.97
+2709778296#1004#Apple#Fruits and Vegetable#LB1#$0.99#New england organic red apple#4#3.96
+2709778296#1001#Banana#Fruits and Vegetable#LB1#$0.99#Organic costa rica#2#1.98

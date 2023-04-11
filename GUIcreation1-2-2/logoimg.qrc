@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>logoImg/logo.png</file>
+        <file>logoImg/account.png</file>
+        <file>logoImg/alert.png</file>
+        <file>logoImg/cart.png</file>
+        <file>logoImg/customer.png</file>
+        <file>logoImg/employee.png</file>
+        <file>logoImg/mailbox.png</file>
+        <file>logoImg/orders.png</file>
+        <file>logoImg/products.png</file>
+        <file>logoImg/purchases.png</file>
+        <file>logoImg/return.png</file>
+        <file>logoImg/sales.png</file>
+        <file>logoImg/shopping.png</file>
+        <file>logoImg/statistics.png</file>
+        <file>logoImg/supplier.png</file>
+        <file>logoImg/finalLogo.png</file>
+    </qresource>
+</RCC>

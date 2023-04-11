@@ -1,0 +1,5 @@
+1667979510#1001#Banana#Fruits and Vegetable#LB1#$0.99#Organic costa rica#5#4.95
+1667979510#1004#Apple#Fruits and Vegetable#LB1#$0.99#New england organic red apple#3#2.97
+1667979510#2019#Chicken Fingers#Meat#LB1#$4.99#cage free#2#9.98
+1667979510#3087#Chedar cheese#Dairy Products#LB1#$7.89#Smoked 18 months aged#3#23.67
+1226998140#3087#Chedar cheese#Dairy Products#LB1#$7.89#Smoked 18 months aged#4#31.56

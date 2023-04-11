@@ -1,0 +1,6 @@
+1001#Banana#Fruits and Vegetable#LB1#$0.99#Organic costa rica#13
+1004#Apple#Fruits and Vegetable#LB1#$0.99#New england organic red apple#8
+2005#Pork Ribs#Meat#LB1#$6.99#Barbecue pork ribs#7
+2019#Chicken Fingers#Meat#LB1#$4.99#cage free#6
+3008#Skim Milk#Dairy Products#GAL1#$4.99#1% skim milk antibiotic free#10
+3087#Chedar cheese#Dairy Products#LB1#$7.89#Smoked 18 months aged#4

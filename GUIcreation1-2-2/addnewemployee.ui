@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>addnewemployee</class>
+ <widget class="QDialog" name="addnewemployee">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>561</width>
+    <height>509</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QPushButton" name="pushButton_addEmployee">
+   <property name="geometry">
+    <rect>
+     <x>430</x>
+     <y>570</y>
+     <width>113</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Add Employee</string>
+   </property>
+  </widget>
+  <widget class="QWidget" name="gridLayoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>50</y>
+     <width>387</width>
+     <height>422</height>
+    </rect>
+   </property>
+   <layout class="QGridLayout" name="gridLayout">
+    <item row="2" column="6">
+     <spacer name="horizontalSpacer_2">
+      <property name="orientation">
+       <enum>Qt::Horizontal</enum>
+      </property>
+      <property name="sizeHint" stdset="0">
+       <size>
+        <width>40</width>
+        <height>20</height>
+       </size>
+      </property>
+     </spacer>
+    </item>
+    <item row="6" column="1" colspan="5">
+     <widget class="QLineEdit" name="lineEdit_AdressLine2EMP"/>
+    </item>
+    <item row="9" column="1" colspan="5">
+     <widget class="QLineEdit" name="lineEdit_ZipCodeEMP"/>
+    </item>
+    <item row="2" column="2">
+     <spacer name="horizontalSpacer_3">
+      <property name="orientation">
+       <enum>Qt::Horizontal</enum>
+      </property>
+      <property name="sizeHint" stdset="0">
+       <size>
+        <width>18</width>
+        <height>18</height>
+       </size>
+      </property>
+     </spacer>
+    </item>
+    <item row="7" column="1" colspan="5">
+     <widget class="QLineEdit" name="lineEdit_CityEMP"/>
+    </item>
+    <item row="2" column="5">
+     <widget class="QLineEdit" name="lineEdit_YearEMP"/>
+    </item>
+    <item row="8" column="0">
+     <widget class="QLabel" name="label_9">
+      <property name="text">
+       <string>State :</string>
+      </property>
+     </widget>
+    </item>
+    <item row="1" column="0">
+     <widget class="QLabel" name="label_2">
+      <property name="text">
+       <string>Last Name :</string>
+      </property>
+     </widget>
+    </item>
+    <item row="5" column="0">
+     <widget class="QLabel" name="label_6">
+      <property name="text">
+       <string>Adress line 1 :</string>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="0">
+     <widget class="QLabel" name="label_4">
+      <property name="text">
+       <string>Email Adress :</string>
+      </property>
+     </widget>
+    </item>
+    <item row="2" column="4">
+     <spacer name="horizontalSpacer">
+      <property name="orientation">
+       <enum>Qt::Horizontal</enum>
+      </property>
+      <property name="sizeHint" stdset="0">
+       <size>
+        <width>40</width>
+        <height>20</height>
+       </size>
+      </property>
+     </spacer>
+    </item>
+    <item row="0" column="0">
+     <widget class="QLabel" name="label_3">
+      <property name="text">
+       <string>First Name :</string>
+      </property>
+     </widget>
+    </item>
+    <item row="3" column="1" colspan="5">
+     <widget class="QLineEdit" name="lineEdit_EmailEMP"/>
+    </item>
+    <item row="2" column="0">
+     <widget class="QLabel" name="label_12">
+      <property name="text">
+       <string>DOB :</string>
+      </property>
+     </widget>
+    </item>
+    <item row="5" column="1" colspan="5">
+     <widget class="QLineEdit" name="lineEdit_AdressLine1EMP"/>
+    </item>
+    <item row="2" column="1">
+     <widget class="QLineEdit" name="lineEdit_MonthEMP"/>
+    </item>
+    <item row="2" column="3">
+     <widget class="QLineEdit" name="lineEdit_DayEMP"/>
+    </item>
+    <item row="1" column="1" colspan="5">
+     <widget class="QLineEdit" name="lineEdit_LastNameEMP"/>
+    </item>
+    <item row="4" column="0">
+     <widget class="QLabel" name="label_5">
+      <property name="text">
+       <string>Phone Number :</string>
+      </property>
+     </widget>
+    </item>
+    <item row="6" column="0">
+     <widget class="QLabel" name="label_7">
+      <property name="text">
+       <string>Adress line 2 :</string>
+      </property>
+     </widget>
+    </item>
+    <item row="4" column="1" colspan="5">
+     <widget class="QLineEdit" name="lineEdit_PhoneNumberEMP"/>
+    </item>
+    <item row="0" column="1" colspan="5">
+     <widget class="QLineEdit" name="lineEdit_FirstNameEMP"/>
+    </item>
+    <item row="9" column="0">
+     <widget class="QLabel" name="label_10">
+      <property name="text">
+       <string>Zip Code :</string>
+      </property>
+     </widget>
+    </item>
+    <item row="10" column="0">
+     <widget class="QLabel" name="label">
+      <property name="text">
+       <string>Job :</string>
+      </property>
+     </widget>
+    </item>
+    <item row="7" column="0">
+     <widget class="QLabel" name="label_8">
+      <property name="text">
+       <string>City :</string>
+      </property>
+     </widget>
+    </item>
+    <item row="11" column="0">
+     <widget class="QLabel" name="label_11">
+      <property name="text">
+       <string>Salary :</string>
+      </property>
+     </widget>
+    </item>
+    <item row="8" column="1" colspan="5">
+     <widget class="QComboBox" name="comboBox_StateEMP"/>
+    </item>
+    <item row="10" column="1" colspan="5">
+     <widget class="QLineEdit" name="lineEdit_jobEMP"/>
+    </item>
+    <item row="11" column="1" colspan="5">
+     <widget class="QLineEdit" name="lineEdit_salaryEMP"/>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QLabel" name="label_13">
+   <property name="geometry">
+    <rect>
+     <x>170</x>
+     <y>10</y>
+     <width>211</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt; font-weight:600; font-style:italic; text-decoration: underline;&quot;&gt;Adding New Employee&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_registerEmployee">
+   <property name="geometry">
+    <rect>
+     <x>332</x>
+     <y>480</y>
+     <width>141</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Register Employee</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

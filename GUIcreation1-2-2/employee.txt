@@ -1,0 +1,3 @@
+John Brown#johnbrown@gmail.com#9879009810#02-20-1992#14 Harvard st, Unit 2,Boston,MA,02334#Driver#23
+Megan fox#MegFox@gmail.com#1234567687#12-5-1989#56 court av, apt 1,Westwood,MA,02331#Manager#33
+Ali Smith#ali.smith@gmail.com#9998880002#06-06-1966#78 hartford st, floor 1,Westwood,MA,09082#Coordinator#52
